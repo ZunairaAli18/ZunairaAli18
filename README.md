@@ -1,43 +1,80 @@
-<h1 align="center">Hi 👋, I'm Zunaira</h1>
-<h3 align="center">A passionate developer and programmer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zunairaali18&label=Profile%20views&color=0e75b6&style=flat" alt="zunairaali18" /> </p>
+# Syeda Zunaira Ali
 
-- 🌱 I’m currently learning **Web Dev and Competitive Programming**
+### Backend Engineering · Cloud Security · Applied AI
 
-- 📫 How to reach me **zunaira.ali2053@gmail.com**
+I build secure, data-intensive systems and developer tools, from concurrent Rust services and distributed storage to RAG pipelines and interactive compiler runtimes.
 
-- ⚡ Fun fact **I bring the energy wherever I go hehe:))**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zunaira-ali-957482282/)
+[![Email](https://img.shields.io/badge/Email-zunaira.ali2053%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunaira.ali2053@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ZunairaAli18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZunairaAli18)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zunaira-ali-957482282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zunaira-ali-957482282/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/zunairaali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zunairaali" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zunairaali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zunairaali" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/zunairaav7zb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="zunairaav7zb" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left">
-<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-<a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></a>
-</p>
+## What I build
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zunairaali18&show_icons=true&locale=en&layout=compact" alt="zunairaali18" /></p>
+- **Secure backend systems** with authentication, RBAC, background workers, transactional data flows, and observable APIs.
+- **Cloud and data-security tooling** for discovering sensitive information, protecting data, and measuring recovery risk.
+- **Applied AI products** using RAG, embeddings, LLMs, data profiling, and agent-style workflows.
+- **Systems projects** that explore compilers, virtual machines, distributed state, replication, and cryptographic identity.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zunairaali18&show_icons=true&locale=en" alt="zunairaali18" /></p>
+> I enjoy making complex systems understandable, whether that means exposing a compiler pipeline, explaining why data is risky, or turning an unstructured dataset into useful decisions.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zunairaali18&" alt="zunairaali18" /></p>
+## Featured projects
+
+| Project | What it demonstrates |
+|---|---|
+| **[VaultGuard](https://github.com/ZunairaAli18/vaultguard-S3-scanner)** · [Frontend](https://github.com/ZunairaAli18/vaultguard-S3-scanner-frontend) | A security and recoverability platform for S3-compatible storage. Rust/Axum API, Tokio workers, SQLx/PostgreSQL, PII and secret detection, policy-driven backups, verified restores, RBAC, audit trails, OpenAPI, Docker Compose, and a 565-test backend suite. |
+| **[Juncture](https://github.com/ZunairaAli18/Decentralized_Github)** | A decentralized Git hosting platform with Ed25519 challenge-response identity, consistent hashing, leader leases, gossip replication, per-node PostgreSQL storage, and browser-based Git operations. |
+| **[Data Analyst Agent](https://github.com/ZunairaAli18/DataAnalystAgent)** · [Live](https://dataanalystagent-iqdxc.ondigitalocean.app/) | An AI-assisted data exploration system for profiling, cleaning, schema and column analysis, report generation, and interactive visualizations using Python and Next.js. |
+| **[RAGify](https://github.com/ZunairaAli18/RAGify)** | A document-question answering pipeline with PDF ingestion, Gemini embeddings, PostgreSQL/pgvector similarity search, source attribution, and Groq-hosted LLM responses. |
+| **[TurretScript](https://github.com/ZunairaAli18/turret-script)** | A statically typed language and visual compiler built in Godot: lexer, parser, semantic analysis, IR/bytecode generation, a stack-based VM, step execution, and a game-integrated runtime. |
+| **[Veriora](https://github.com/ZunairaAli18/Veriora)** · [Live](https://veriora-seven.vercel.app) | An AI mentor for character development that connects assessments, daily planning, in-the-moment coaching, journaling, and progress analysis into one continuous product loop. |
+
+## Technical toolkit
+
+<div align="center">
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20%2F%20S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+| Area | Experience |
+|---|---|
+| **Backend** | Rust, Axum, Tokio, SQLx, Python, Node.js, Express, REST APIs, OpenAPI |
+| **Frontend** | TypeScript, React, Next.js, Vite, Tailwind CSS |
+| **Data** | PostgreSQL, pgvector, SQL, schema design, migrations, vector search |
+| **Infrastructure** | Docker, Docker Compose, S3-compatible storage, MinIO, CI/CD |
+| **AI** | RAG, embeddings, LLM integration, agent workflows, structured analysis |
+| **Systems** | Concurrency, background workers, distributed replication, cryptographic identity, compilers and virtual machines |
+
+## Current direction
+
+I am deepening my work in **backend and platform engineering, cloud security, AI infrastructure, and open source**. I am especially interested in problems involving reliable data pipelines, security boundaries, developer tooling, and systems that must explain their decisions clearly.
+
+I am open to software engineering opportunities where I can work on backend systems, platform infrastructure, security-focused products, or applied AI.
+
+<div align="center">
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/zunaira-ali-957482282/) ·
+[Codeforces](https://codeforces.com/profile/zunairaali) ·
+[LeetCode](https://leetcode.com/zunairaali) ·
+[GeeksforGeeks](https://auth.geeksforgeeks.org/user/zunairaav7zb)
+
+</div>
