@@ -6,7 +6,7 @@
 
 I build secure, data-intensive systems and developer tools, from concurrent Rust services and distributed storage to RAG pipelines and interactive compiler runtimes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zunaira-ali-957482282/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeda-zunaira-ali-957482282/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkbQ4GXIEQDKp3O9axWXWNA%3D%3D)
 [![Email](https://img.shields.io/badge/Email-zunaira.ali2053%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunaira.ali2053@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ZunairaAli18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZunairaAli18)
 
